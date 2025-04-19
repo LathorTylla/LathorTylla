@@ -55,25 +55,6 @@
 
 <br clear="both">
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/fabián-murillo-garcía-73505b302/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="lathor_tylla" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="fabianisrael188@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://lathor-tylla.itch.io" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/itch/default.svg" width="52" height="40" alt="itch logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
 <h5 align="center">I’m always open to collaboration, feedback, or just chatting about game dev or music.  <br><br>“Code is my paintbrush, music is my color.”</h5>
 
 ###
